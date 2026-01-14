@@ -1,6 +1,6 @@
 # win32/OpenGL window
 
-Code for a simple win32/wgl window with an OpenGL context. See my [blog post](https://james822.github.io/posts/win32_window_opengl.html) for a tutorial on how to write this yourself.
+Code for a simple win32/wgl window with an OpenGL context. See my [blog post](https://james822.github.io/posts/win32_window_opengl) for a tutorial on how to write this yourself.
 
 
 ## BUILD INSTRUCTIONS
